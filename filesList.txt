@@ -1,0 +1,10 @@
+Acorus_calamus_MT755635 annotations.fasta
+Lemna_minor_DQ400350 annotations.fasta
+Spirodela_polyrhiza_MN419335 annotations.fasta
+Anthurium_huixtlense_MN996266 annotations.fasta
+Monstera_adansonii_MN046888 annotations.fasta
+Zamioculcas_zamiifolia_MT226775 annotations.fasta
+Dieffenbachia_seguine_KR262889 annotations.fasta
+Philodendron_hederaceum_OM937109 annotations.fasta
+Homalomena_occulta_MW145396 annotations.fasta
+Pothos_scandens_MN046891 annotations.fasta

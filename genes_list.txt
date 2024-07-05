@@ -1,0 +1,10 @@
+psbA
+matK
+rbcL
+rps16
+psbK
+psbI
+atpA
+atpF
+atpH
+atp
